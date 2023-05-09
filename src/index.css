@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  --gray-100: #F2F2F2;
+  --gray-300: #808080;
+  --gray-500: #454545;
+  --gray-600: #1A1A1A;
+  --gray-700: #0D0D0D;
+  --blue: #4EA8DE;
+  --blueDark: #1E6F9F;
+  --purpleDark: #5E60CE;
+  --purple: #8284FA;
+  --darger: #E25858;
+}
+
+body {
+  margin: 0;
+  background-color: var(--gray-600);
+  color: var(--gray-100); 
+}
+
